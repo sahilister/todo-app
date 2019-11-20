@@ -13,10 +13,11 @@ code {
     monospace;
 }
 
-.top {
-  background-color: bisque;
+h1 {
+  background-color: black;
   font-size: 3rem;
   text-align: center;
   display: flex;
+  color: white;
 
 }
