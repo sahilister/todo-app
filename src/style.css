@@ -2,9 +2,9 @@ body {
   margin: 0;
   font-family: "Helvetica", sans-serif;
   margin: auto;
-  margin-top: 50px;
+  margin-top: 20px;
   display: block;
-  width: 500px;
+  width: 30rem;
   border: 2px solid black;
   justify-content: space-around;
   font-size: large;
